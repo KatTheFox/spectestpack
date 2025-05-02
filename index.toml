@@ -162,7 +162,7 @@ hash = "5e42cec6e3ed64996eced65c11b813286874a6ffed685a0b141171ced6a24335"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "2414f7122f033b7a7156fa5f3f43e41681638b8775b3cd082c3be9db8b4dff14"
+hash = "64fedf673bc62641b29c1fa6ff4cd5082f6e62b511f7c91da9c252ecc10ffb12"
 
 [[files]]
 file = "config/toms_storage.json"
