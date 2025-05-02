@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/arrowhead.pw.toml"
-hash = "3daa13ac364d718e6564875c9bc5b76c2d42653bddefe7e075118c1ecaa96401"
+hash = "3fb9f224518bc0ea499c7c38ada9122159270bd79ec6da5a2a1c1f7b8df3254a"
 metafile = true
 
 [[files]]
