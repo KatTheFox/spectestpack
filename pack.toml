@@ -1,0 +1,13 @@
+name = "Spectestpack"
+author = "KatTheFox"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ad991c44ae63481dfbced6e3a1b51601e2d94259d69926d5687286ea462d6581"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"
