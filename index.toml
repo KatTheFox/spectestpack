@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
+hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/exclusions-lib.pw.toml"
-hash = "65e7925978a3b6f3427dc66cc853b3ba60f50a125b44e0b4c4b87c215bce3ad9"
+hash = "418ac2b313c508949e32b1553007790b114596e75bcd3ca2ae7add9d9880980e"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "537bdd1937193d94cf47f2232e2b38357415e5af8c950d97661b3ae881adbb4e"
+hash = "14570af8f3dc013245fc42f57b4cdf4cdc4670db0d162d94a3c92c53c0cd7f8c"
 metafile = true
 
 [[files]]
@@ -391,12 +391,12 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
+hash = "22a65829892382f1f4a8cea2c788fcedabf231c86b0852f9cbe33c65436a0d53"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "e8ae114624b21b91cada4ed8241b829d2a6b1979b98bf9b994bd2c8320740f66"
+hash = "9137c688c724db6215a475abe5ec71e1dd4a508860434eb2b35933c5079c8e70"
 metafile = true
 
 [[files]]
