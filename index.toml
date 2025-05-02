@@ -33,18 +33,6 @@ file = "config/Spectrum.json5"
 hash = "149edeb1e1cfac095919dec12ec61e7eb862db999dd61100f1b2ce977b9e8d8f"
 
 [[files]]
-file = "config/Veinminer/blocks.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/Veinminer/groups.json"
-hash = "cee98f631d5bf35ee463afc1e703b2852bc70141928e076d380dd376834f2109"
-
-[[files]]
-file = "config/Veinminer/settings.json"
-hash = "32667c1164bf67d3e53b35b839d0d601e30e9c394ed540dbe3b9e3d891b738ed"
-
-[[files]]
 file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
@@ -185,12 +173,12 @@ file = "config/usefulslime/main.toml"
 hash = "fc78d910d65eb22b4c89fd5484a3c0b8e81d99829c423f7e724dee95ea2774c2"
 
 [[files]]
-file = "config/veinminer/update/veinminer-client-2.4.2.jar"
-hash = "b3925c96150f7662f687dbf3ce9ffb26f89fe9059a5b1e9e2a87ee34a5b496ef"
+file = "config/veinmining-client.toml"
+hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
 [[files]]
-file = "config/veinminer/update/veinminer-fabric-2.4.2.jar"
-hash = "80dafbd691cf025ba92d05317c45b46a5d6d4d1a3baa97ac1eb7b2cb56d19342"
+file = "config/veinmining-server.toml"
+hash = "d5c022ba5dbcd5501747689761915e5c92fad2a6866230da78a11c96afc3560e"
 
 [[files]]
 file = "config/yigd.json"
