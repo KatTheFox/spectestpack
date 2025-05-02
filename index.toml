@@ -202,6 +202,11 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
+file = "mods/arrowhead.pw.toml"
+hash = "3daa13ac364d718e6564875c9bc5b76c2d42653bddefe7e075118c1ecaa96401"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ef031e859a6f4fc358334863d71fd87a3107924ed40ec8e380600a509886eee2"
 metafile = true
@@ -392,6 +397,11 @@ hash = "90d1f4ee70f4b208b623af04b48be8fd5b98b411cbd4d9d0a5b23d07ba99c1e4"
 metafile = true
 
 [[files]]
+file = "mods/spectrum.pw.toml"
+hash = "470a7d506ecf243a73aaf98d4977151a85add52f66883ed7591829530792c168"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
 metafile = true
@@ -417,13 +427,8 @@ hash = "b98d41800409e1b599c0de30295e871cc38ccd815ce0aa1fff29d96a120b1121"
 metafile = true
 
 [[files]]
-file = "mods/veinminer-enchantment.pw.toml"
-hash = "3379303eeead16fc598e36b199258542785be8b890fcdfe6913fbdf0d62714a2"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "79a914c22a29620290a146689b8f37fa3c707c590a1edcca9665eff659b1562e"
+file = "mods/vein-mining.pw.toml"
+hash = "1f535c2a72ae70b42b262dd8211b5e0b10431123132b7891da4eb7bd3199c8f7"
 metafile = true
 
 [[files]]
