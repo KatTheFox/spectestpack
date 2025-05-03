@@ -1,11 +1,11 @@
 name = "Spectrum"
-filename = "spectrum-PREALPHA.5_1.21.1.jar"
+filename = "spectrum-PREALPHA.5v4_1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1363715504417800202/1367953517381157077/spectrum-PREALPHA.5_1.21.1.jar?ex=6816757d&is=681523fd&hm=01364e5af2b040b6fe4b24d277dcac507a57ac069019d89cef335da148f59d0f&"
+url = "https://cdn.discordapp.com/attachments/1363715504417800202/1368084632435953747/spectrum-PREALPHA.5v4_1.21.1.jar?ex=6816ef9a&is=68159e1a&hm=507c0e17f076f21a9613f9bb398af4540aa31288da67b4bd77c0d57e1211c840&"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "60e5606e6284c06f5e6f95246ffad3232dc5de39edeb52de9438e86b317d15c9"
+hash = "cc267c4e06a736f1400a6010e8a898a1d6b99c575467ad2efbed8e7189df386e"
