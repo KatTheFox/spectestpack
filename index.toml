@@ -310,6 +310,11 @@ hash = "d3257e674d8e596b3cbc1afd5ba2f65a903399bf021f86a79d9684c20f689fd6"
 metafile = true
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "f1f01c2a2350fe52c9064614d8fe6d66adbdbad9e5007c5d386e2801d4bede16"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "21f334728978b81c7870cb0e3ac29ed9d0f881787cd85f9f3df3bc91255c310c"
 metafile = true
