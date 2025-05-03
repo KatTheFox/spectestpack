@@ -3,7 +3,7 @@ filename = "spectrum-PREALPHA.5v4_1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1363715504417800202/1368086943040278601/spectrum-PREALPHA.5v4_1.21.1.jar?ex=6816f1c1&is=6815a041&hm=01771579bdf3928699891fb85a412533148c2e41e96a6df6b9d90e2d7559d583&"
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/jars/spectrum-PREALPHA.5v4_1.21.1.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5

@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/arrowhead.pw.toml"
-hash = "3daa13ac364d718e6564875c9bc5b76c2d42653bddefe7e075118c1ecaa96401"
+hash = "9fe72749aa8c19f43ac654949e43a4423fb7874df7193b6a8c9df3dfe2c15c17"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "a5bc3e16c646add8b8064cf2b673144aedd1f8a6cb2c39a0e050bd35c41bf4ed"
+hash = "f9c629b49abab2cdbf7788fc89fa49e5b3bdc462483e3bee38f1881fe5fcf1ad"
 metafile = true
 
 [[files]]

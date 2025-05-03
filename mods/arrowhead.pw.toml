@@ -3,7 +3,7 @@ filename = "Arrowhead-1.3.0+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/1363715504417800202/1364091384826433666/Arrowhead-1.3.01.21.1.jar?ex=68164059&is=6814eed9&hm=3c4a19ae8492177ef41484a41a68ba41d474af7205db11ea3e858c7b6da13776&"
+url = "https://github.com/Egassy/Special-pack-files/raw/refs/heads/main/1.21.1/jars/Arrowhead-1.3.0+1.21.1.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
