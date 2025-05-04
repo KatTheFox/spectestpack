@@ -305,11 +305,6 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "d127299ac94c4f4bc105a911ab4057cc5aa6a3eeb5ad1628fdadc656bc989e56"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
