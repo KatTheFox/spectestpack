@@ -240,6 +240,11 @@ hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
+hash = "31e7d3fe7b55ec8611950b888cfb60954514b5062ef3b88487bdbaaef5093df4"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "0c16cfd2b543608d3ce04f0a8110fd2e47a6b53f955f0113ee822c23ff4bc64d"
 metafile = true
