@@ -280,6 +280,16 @@ hash = "161123eca0678a132b41010d1c1bbefae031c54f331f4681d09466c93004431a"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "a85bce078145b12ba78cb81cc8c69ce7eed9b94c35967956d82590f949e58f75"
+metafile = true
+
+[[files]]
+file = "mods/endertanks.pw.toml"
+hash = "c9ec20a9bc63070f66faa31cfc5fb5a675c87849736c5c26bfe7525fc115c989"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "a4b817f8c3de5af3a6ecb2b72caa2daa3042c1e65cc8eb3c794a0b3ec3bbf847"
 metafile = true
@@ -427,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "43c482bb55e67314f2dbec272fec11a202213d983a687b611f2323adc14706f0"
 metafile = true
 
 [[files]]
