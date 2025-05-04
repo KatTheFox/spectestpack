@@ -210,6 +210,11 @@ hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -277,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/exclusions-lib.pw.toml"
 hash = "418ac2b313c508949e32b1553007790b114596e75bcd3ca2ae7add9d9880980e"
+metafile = true
+
+[[files]]
+file = "mods/extraalchemy.pw.toml"
+hash = "7d0d5d3222d1330268a086b0bd3c84e036d976d50ca92a0454aff6951723f0da"
 metafile = true
 
 [[files]]
@@ -355,6 +365,11 @@ hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
@@ -400,6 +415,11 @@ hash = "f55842e2485d7be3fcd497cf0e5d003a72a859bc0607c3b7d93b600b6eea4a47"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
 file = "mods/revelationary.pw.toml"
 hash = "6f58e15806c60afc96ef720ebced4840ad27e329703273ed05f9cd8b9162f3d3"
 metafile = true
@@ -432,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "9137c688c724db6215a475abe5ec71e1dd4a508860434eb2b35933c5079c8e70"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "0517d7073b20e4d1f1fc46b2ab922d1d21a5e712bbb82eefce7e0d8e91653613"
 metafile = true
 
 [[files]]
