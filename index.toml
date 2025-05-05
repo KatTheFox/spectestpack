@@ -178,7 +178,7 @@ hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "5b1145ee2367521eb28ba01ccb8855f4bd361a9e117b8724704dfdd812a4fc39"
+hash = "034f4950a56e94d296a184fdc92dd2ffa2896ad72c6a0733a4e7e931511d92bc"
 
 [[files]]
 file = "config/yigd.json"
