@@ -1,16 +1,12 @@
-name = "Spectestpack"
-author = "KatTheFox"
+name = "Spectesting 2: The Squeakel"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3fde6a6252d3c62f53e79ec7fbf6cc766ca004831c5e170e60ba8fc46a7d0502"
+hash = "cfdba6634c6ac82d531f8fe31dc218c1f63c03701e96a7f281b150f3f1a0fada"
 
 [versions]
 fabric = "0.16.14"
 minecraft = "1.21.1"
-
-[options]
-acceptable-game-versions = ["1.21"]

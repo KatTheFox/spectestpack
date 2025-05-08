@@ -1,0 +1,13 @@
+name = "I have slept"
+filename = "i_have_slept-fabric-1.1.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef57d84d6d787c0ec4b54ecf1d6e32dff74cca32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5875243
+project-id = 1129410

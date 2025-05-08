@@ -1,0 +1,13 @@
+name = "BankSystem"
+filename = "banksystem-fabric-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0381129ba27d1e8753c5981bd80ab7cad1f28092"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6200604
+project-id = 1175370

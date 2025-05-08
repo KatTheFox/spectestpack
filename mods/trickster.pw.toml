@@ -1,0 +1,13 @@
+name = "Trickster"
+filename = "trickster-2.0.0-beta.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZdEfcqro/versions/bvCoE3bR/trickster-2.0.0-beta.18.jar"
+hash-format = "sha512"
+hash = "5811c07b9c6cc8f508336e5043d288760d7a7601313d39a7cac28f14671e6d7e3a1e32011bb05678aa0e1c01fae7526c1cafb828c40c93cc8bc833c05ed696c2"
+
+[update]
+[update.modrinth]
+mod-id = "ZdEfcqro"
+version = "bvCoE3bR"

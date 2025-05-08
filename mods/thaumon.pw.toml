@@ -1,0 +1,13 @@
+name = "Thaumon"
+filename = "thaumon-fabric-2.3.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "588af2a02d735bcdb14e52cb093ca0305ce15a94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5492712
+project-id = 926511

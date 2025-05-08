@@ -3,11 +3,11 @@ filename = "exclusions_lib-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OqRYBfuW/versions/R2vQMUlU/exclusions_lib-1.0.2.jar"
-hash-format = "sha512"
-hash = "f6494b6671f815865b4b2396813a447e1c876b7d7576b1cf5614672d5fd887811f90a7a6552293512625e0d533779923de17e1c28320b30946d0c044cad3f657"
+hash-format = "sha1"
+hash = "f3160009fb95186b8c1d0706e071a23b7fd50917"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "OqRYBfuW"
-version = "R2vQMUlU"
+[update.curseforge]
+file-id = 6176676
+project-id = 1108052

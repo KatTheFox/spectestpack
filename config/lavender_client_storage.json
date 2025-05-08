@@ -1,0 +1,33 @@
+{
+  "bookmarks": {},
+  "opened_books": {
+    "d8966f43-ae27-437e-8b2b-201b109ce643": [
+      "trickster:tome_of_tomfoolery"
+    ]
+  },
+  "viewed_entries": {
+    "d8966f43-ae27-437e-8b2b-201b109ce643": {
+      "trickster:tome_of_tomfoolery": [
+        "trickster:delusions_ingresses/entity_locating",
+        "trickster:concepts/macro",
+        "trickster:concepts/trigger_items",
+        "trickster:items/mirror_of_evaluation",
+        "trickster:concepts/multi_tick",
+        "trickster:editing",
+        "trickster:intro",
+        "trickster:concepts/mana",
+        "trickster:concepts/trace",
+        "trickster:concepts/tricks_explanation",
+        "trickster:delusions_ingresses/raycast",
+        "trickster:tutorials/2_mana_basics",
+        "trickster:constants",
+        "trickster:delusions_ingresses/caster_tricks",
+        "trickster:concepts/signatures",
+        "trickster:concepts/ward",
+        "trickster:tricks/basic",
+        "trickster:tricks/imports",
+        "trickster:items/wand"
+      ]
+    }
+  }
+}

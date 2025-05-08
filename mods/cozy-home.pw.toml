@@ -1,0 +1,13 @@
+name = "Lucky's Cozy Home: Refurnished!"
+filename = "Luckys-Cozyhome-Refurnished-1.1.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a003375b457ef1629ac9ae3282dc28092d11b2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6493748
+project-id = 825733

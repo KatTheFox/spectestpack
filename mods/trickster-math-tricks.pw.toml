@@ -1,0 +1,13 @@
+name = "Trickster Math Tricks"
+filename = "trickster-math-tricks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IDao2x4h/versions/ZnAG2pnL/trickster-math-tricks-1.0.0.jar"
+hash-format = "sha512"
+hash = "b3a25f21824e71d9fa00543122071ced44eeadc1e699e4304bdfd7f291b56e6cc03642f9c175b383f05f071778ced4a30e9eeab593a50de099bc4bccd374f0ff"
+
+[update]
+[update.modrinth]
+mod-id = "IDao2x4h"
+version = "ZnAG2pnL"

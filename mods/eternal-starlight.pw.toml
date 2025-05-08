@@ -1,0 +1,13 @@
+name = "Eternal Starlight"
+filename = "eternalstarlight-0.4.3+1.21.1+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f99ef5d62b8be610118513e9e89db199503df98e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6498196
+project-id = 1080592

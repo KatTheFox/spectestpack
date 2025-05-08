@@ -1,0 +1,13 @@
+name = "Eternal Starlight Vanilla Ores"
+filename = "Eternal_Starlight_VO-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "864ff61065f4a52a41f4a58269460025139c2461"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6384328
+project-id = 1235434

@@ -1,0 +1,13 @@
+name = "SkinShifter"
+filename = "skinshifter-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ae09e0d84eea23f14842a52d6205fcbcb2fbc3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5898101
+project-id = 1076301

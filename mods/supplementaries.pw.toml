@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.21-3.1.8-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7f06db22fdbc3137c59003b34a813b12bfe682a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6462648
+project-id = 412082
