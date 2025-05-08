@@ -101,22 +101,6 @@ file = "config/crawl.properties"
 hash = "b0b34c909e391d0863955e18233ec7a84aef6b10bcf0107a1e832829a9e0b78e"
 
 [[files]]
-file = "config/diggusmaximus/blacklist.json5"
-hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
-
-[[files]]
-file = "config/diggusmaximus/config.json5"
-hash = "4b72fed28a24f6d3f7b4ed0dc5f87c4449f6eade69bf365bb77ad44209d97a6e"
-
-[[files]]
-file = "config/diggusmaximus/excavatingshapes.json5"
-hash = "470a5630aa5b09d4d114ea2b222d5c96533f0b877c96f64e7f8fcfdebe8c09b4"
-
-[[files]]
-file = "config/diggusmaximus/grouping.json5"
-hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
-
-[[files]]
 file = "config/elevatorid-server.toml"
 hash = "cdf81139f930e5397af2f7d1639f98eceb0dac6d444f01ed676622eb03edaa2b"
 
@@ -439,10 +423,6 @@ hash = "4051bb172637beace01d22fa9ba023c80a9b2be8372df4ac7ba3e3c765939e9b"
 [[files]]
 file = "config/walljump.json"
 hash = "e75ba8afc309bbea98cd00b53333033d0dc99a7905d7fbd1f0a48e1ba5ef6273"
-
-[[files]]
-file = "config/yigd.json"
-hash = "1b7e2d9c7c30896d527aead84dde0ad5e2ff8d428f16ee97fd337c5b8ee629f5"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
