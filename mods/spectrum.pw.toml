@@ -1,11 +1,11 @@
 name = "Spectrum"
-filename = "spectrum-PREALPHA.9_1.21.1.jar"
+filename = "spectrum-PREALPHA.10_1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/KatTheFox/spectestpack/releases/download/v1.0.0/spectrum-PREALPHA.9_1.21.1.jar"
+url = "https://github.com/KatTheFox/spectestpack/releases/download/v1.0.0/spectrum-PREALPHA.10_1.21.1.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "8ffdda6fcd31a7ed0bad3d5ed09bb44d1440651f23d4b163b8f6c56b88e70c5c"
+hash = "b78bad3fe0bb265a17396234b58126bb895f84a9977dc5324fa65d87052076a5"
